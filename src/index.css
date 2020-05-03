@@ -1,0 +1,41 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+
+.form-control {
+  margin-top: 10px;
+}
+
+.toast {
+  margin-top: 1em;
+}
+
+.toast:hover {
+  background: #007bff;
+  cursor: pointer;
+  color: aliceblue;
+}
+
+.font-prop {
+  font-size: 50px;
+  color: #bbbbbb;
+  cursor: pointer;
+}
+
+.font-prop:hover {
+  color: #007bff;
+}
+
+.toast-body {
+  width: fit-content;
+}
