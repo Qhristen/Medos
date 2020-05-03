@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Medos/static/css/main.e4e1aceb.chunk.css",
+    "main.js": "/Medos/static/js/main.95cf3e80.chunk.js",
+    "main.js.map": "/Medos/static/js/main.95cf3e80.chunk.js.map",
+    "runtime-main.js": "/Medos/static/js/runtime-main.a67a5c63.js",
+    "runtime-main.js.map": "/Medos/static/js/runtime-main.a67a5c63.js.map",
+    "static/css/2.17e5ed98.chunk.css": "/Medos/static/css/2.17e5ed98.chunk.css",
+    "static/js/2.5b697e5f.chunk.js": "/Medos/static/js/2.5b697e5f.chunk.js",
+    "static/js/2.5b697e5f.chunk.js.map": "/Medos/static/js/2.5b697e5f.chunk.js.map",
+    "index.html": "/Medos/index.html",
+    "precache-manifest.1cd1cc58836b320a32235a49b89fd31f.js": "/Medos/precache-manifest.1cd1cc58836b320a32235a49b89fd31f.js",
+    "service-worker.js": "/Medos/service-worker.js",
+    "static/css/2.17e5ed98.chunk.css.map": "/Medos/static/css/2.17e5ed98.chunk.css.map",
+    "static/css/main.e4e1aceb.chunk.css.map": "/Medos/static/css/main.e4e1aceb.chunk.css.map",
+    "static/js/2.5b697e5f.chunk.js.LICENSE": "/Medos/static/js/2.5b697e5f.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a67a5c63.js",
+    "static/css/2.17e5ed98.chunk.css",
+    "static/js/2.5b697e5f.chunk.js",
+    "static/css/main.e4e1aceb.chunk.css",
+    "static/js/main.95cf3e80.chunk.js"
+  ]
+}
